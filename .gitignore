@@ -130,6 +130,7 @@ database.db
 .mypy_cache/
 .dmypy.json
 dmypy.json
+GOOGLE_APPLICATION_CREDENTIALS.json
 
 # Pyre type checker
 .pyre/
